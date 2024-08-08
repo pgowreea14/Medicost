@@ -1,0 +1,6 @@
+0 betadine
+1 cataflam
+2 ibuprofen
+3 paracetamol
+4 cough medcine
+5 fervex
